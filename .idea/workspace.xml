@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5e29a602-ad90-4b21-8975-808d4e5f841b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/massiv/com/telran/Massiv.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/massiv/com/telran/Massiv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/telran/Massiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/telran/Massiv.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

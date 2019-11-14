@@ -3,6 +3,8 @@ package com.telran;
 public class Massiv {
 
     public static void main(String[] args) {
+
+        System.out.println("Its test,dont worry andrej man,chill!");
         int[] Test = {1, 2, 3};
 
 
